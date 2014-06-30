@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  starts: 1
+  rooms: 1
+  beds: 1
+  city: MyString
+  zipcode: MyString
+  street: MyString
+  olery_id: 1
+
+two:
+  name: MyString
+  starts: 1
+  rooms: 1
+  beds: 1
+  city: MyString
+  zipcode: MyString
+  street: MyString
+  olery_id: 1

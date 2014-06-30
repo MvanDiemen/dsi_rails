@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  olery_id: 1
+  review_id: 1
+  data: MyString
+
+two:
+  olery_id: 1
+  review_id: 1
+  data: MyString
